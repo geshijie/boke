@@ -1,0 +1,236 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 524946 */
+  src: url('http://at.alicdn.com/t/font_524946_w4qh1vicdpap2e29.eot');
+  src: url('http://at.alicdn.com/t/font_524946_w4qh1vicdpap2e29.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_524946_w4qh1vicdpap2e29.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_524946_w4qh1vicdpap2e29.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_524946_w4qh1vicdpap2e29.svg#iconfont') format('svg');
+}
+.iconcont{
+	font-family: "iconfont";
+}
+nav{
+	width: 10.8rem;
+	height: 1.44rem;
+	background: #fff;
+	border-bottom: 0.11rem solid #fafafa;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+.tuijian{
+	width: 2.36rem;
+	height: 0.57rem;
+	text-align: center;
+	line-height: 0.57rem;
+	font-size: 0.57rem;
+	color: #575757;
+	float: left;
+	margin-left: 4.22rem;
+	margin-top: 0.43rem;
+}
+.sousuo{
+	width: 0.63rem;
+	height: 0.57rem;
+	float: right;
+	margin-right: 0.49rem;
+	margin-top: 0.45rem;
+}
+.sousuo a{
+	display: block;
+	font-size: 0.61rem;
+	color: #f87b45;
+	line-height: 0.61rem;
+	text-align: center;
+}
+.shishi-big{
+	width: 100%;
+	height: 2.08rem;
+	margin-top: 1.6rem;
+	overflow: hidden;
+}
+.sstext{
+	width: 7.68rem;
+	height: 0.41rem;
+	margin-top: 0.65rem;
+	margin-left: 0.5rem;
+	font-size: 0.41rem;
+	color: #666;
+	line-height: 0.41rem;
+}
+.guanzhu-big{
+	width: 100%;
+	height: 6.42rem;
+}
+.gzzuo{
+	width: 2.32rem;
+	height: 5.55rem;
+	margin-left: 0.67rem;
+	float: left;
+}
+.gzzuo1{
+	margin-left: 1.27rem;
+}
+.gzzuotu{
+	width: 2.32rem;
+	height: 2.28rem;
+}
+.gzzuotu img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.boke{
+	width: 100%;
+	height: 0.46rem;
+	font-size: 0.46rem;
+	color: #323232;
+	text-align: center;
+	line-height: 0.46rem;
+	margin-top: 0.4rem;
+}
+.guanzhushu{
+	width: 100%;
+	height: 0.4rem;
+	font-size: 0.4rem;
+	color: #979797;
+	line-height: 0.4rem;
+	margin-top: 0.3rem;
+}
+.guanzhutext{
+	width: 1.68rem;
+	height: 0.72rem;
+	border: 0.04rem solid #ff6a41;
+	border-radius: 0.06rem;
+    margin-top: 0.9rem;
+    margin-left: 0.29rem;
+}
+.gztextz{
+	width: 0.42rem;
+	height: 0.44rem;
+	margin-left: 0.13rem;
+	margin-top: 0.14rem;
+	float: left;
+	font-size: 0.44rem;
+	color: #ff723e;
+	text-align: center;
+	line-height: 0.44rem;
+	font-weight: 700;
+}
+.gztexty{
+	width: 0.81rem;
+	height: 0.4rem;
+	margin-top: 0.16rem;
+	float: right;
+	font-weight: 700;
+	margin-right: 0.2rem;
+	font-size: 0.4rem;
+	color: #ff723e;
+	line-height: 0.4rem;
+}
+.xiayibu-big{
+	width: 100%;
+	height: 1.88rem;
+	background: #f8f8f8;
+	border-bottom: 0.01rem solid #eee;
+	position: fixed;
+	left: 0;
+	bottom: 1.44rem;
+}
+.xiayibu{
+	width: 2.41rem;
+	height: 0.53rem;
+	margin-top: 0.69rem;
+	margin-left: 4.23rem;
+}
+.xiayibuz{
+	width: 1.68rem;
+	height: 0.53rem;
+	float: left;
+	line-height: 0.53rem;
+	font-size: 0.53rem;
+	color: #fe6b49;
+}
+.xiayibuy{
+	width: 0.54rem;
+	height: 0.42rem;
+	float: right;
+	margin-top: 0.04rem;
+	margin-right: 0.05rem;
+}
+.xiayibuy img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.dibu{
+	width: 100%;
+	height: 1.44rem;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background: #fff;
+}
+.dbguan{
+	width: 0.81rem;
+	height: 1.19rem;
+	margin-left: 0.68rem;
+	margin-top: 0.25rem;
+	float: left;
+}
+.dbguantu{
+	width: 0.66rem;
+	height: 0.66rem;
+	margin-left: 0.08rem;
+}
+.dbguantu img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.dbguanzi{
+	width: 100%;
+	height: 0.28rem;
+	margin-top: 0.13rem;
+	text-align: center;
+	line-height: 0.28rem;
+	font-size: 0.28rem;
+	color: #fc7241;
+}
+.dbguan1{
+	margin-left: 1.39rem;
+}
+.shizi{
+	width: 1.23rem;
+	height: 1.23rem;
+	border-radius: 50%;
+	background: #ff7143;
+	border: 0.1rem solid #fbffff;
+	position: fixed;
+	left: 4.66rem;
+	bottom: 0.19rem;
+	font-weight: 700;
+	font-size: 0.68rem;
+	color: #fffefa;
+	text-align: center;
+	line-height: 1.2rem;
+}
+.dbguan2{
+	float: right;
+	margin-right: 1.39rem;
+}
+.dbguan3{
+	margin-left: 0;
+	float: right;
+	margin-right: 0.75rem;
+}
+.zi1{
+	color: #676767;
+}

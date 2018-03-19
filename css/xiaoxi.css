@@ -1,0 +1,167 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+nav{
+	width: 10.8rem;
+	height: 1.44rem;
+	background: #fff;
+	border-bottom: 0.11rem solid #fafafa;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+.tuijian{
+	width: 2.36rem;
+	height: 0.57rem;
+	text-align: center;
+	line-height: 0.57rem;
+	font-size: 0.57rem;
+	color: #575757;
+	float: left;
+	margin-left: 4.22rem;
+	margin-top: 0.43rem;
+}
+.xinfen{
+	width: 100%;
+	height: 1.84rem;
+}
+#xinfen1{
+	margin-top: 1.55rem;
+}
+.xian{
+	width: 10.32rem;
+	height: 0.03rem;
+	background: #eee;
+	margin-left: 0.48rem;
+	margin-top: 0.1rem;
+}
+.xinfen1{
+	width: 4.5rem;
+	height: 0.57rem;
+	float: left;
+	margin-top: 0.8rem;
+	margin-left: 0.51rem;
+}
+.xinfentu{
+	width: 0.52rem;
+	height: 0.57rem;
+	float: left;
+	background: red;
+}
+.xinfentu img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.xinfenzi{
+	width: 2.5rem;
+	height: 0.57rem;
+	float: left;
+	margin-left: 0.54rem;
+	font-size: 0.45rem;
+	color: #353535;
+	line-height: 0.57rem;
+}
+.xinfensan{
+	width: 0.22rem;
+	height: 0.4rem;
+	float: right;
+	margin-right: 0.49rem;
+	margin-top: 0.84rem;
+	font-size: 0.4rem;
+	color: #949494;
+	text-align: center;
+	line-height: 0.4rem;
+	font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dibu{
+	width: 100%;
+	height: 1.44rem;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background: #fff;
+}
+.dbguan{
+	width: 0.81rem;
+	height: 1.19rem;
+	margin-left: 0.68rem;
+	margin-top: 0.25rem;
+	float: left;
+}
+.dbguantu{
+	width: 0.66rem;
+	height: 0.66rem;
+	margin-left: 0.08rem;
+}
+.dbguantu img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.dbguanzi{
+	width: 100%;
+	height: 0.28rem;
+	margin-top: 0.13rem;
+	text-align: center;
+	line-height: 0.28rem;
+	font-size: 0.28rem;
+	color: #676767;
+}
+.dbguan1{
+	margin-left: 1.39rem;
+}
+.shizi{
+	width: 1.23rem;
+	height: 1.23rem;
+	border-radius: 50%;
+	background: #ff7143;
+	border: 0.1rem solid #fbffff;
+	position: fixed;
+	left: 4.66rem;
+	bottom: 0.19rem;
+	font-weight: 700;
+	font-size: 0.68rem;
+	color: #fffefa;
+	text-align: center;
+	line-height: 1.2rem;
+}
+.dbguan2{
+	float: right;
+	margin-right: 1.39rem;
+}
+.dbguan3{
+	margin-left: 0;
+	float: right;
+	margin-right: 0.75rem;
+}
+.zi1{
+	color: #676767;
+}
+.zi11{
+	color: #fb733f;
+}
+a{
+	outline: none;
+}
